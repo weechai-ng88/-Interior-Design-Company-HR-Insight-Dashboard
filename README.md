@@ -61,24 +61,5 @@ This dashboard is valuable for:
 
 ---
 
-## 📥 How to Use
-
-1. Clone or download this repository.
-2. Open the `.pbix` file in Power BI Desktop (if available).
-3. Explore the dashboard image to understand company staffing insights.
-
----
-
-## 🙋‍♂️ Author
-
-**Wee Cheng**  
-Interior Designer turned Data Analyst  
-Passionate about using data to drive people-centric decisions.
-
-[Connect on LinkedIn](https://www.linkedin.com) *(optional)*  
-[GitHub Portfolio](https://github.com) *(optional)*
-
----
-
 > 📌 *This is a personal project created to demonstrate Power BI dashboarding and HR analytics capabilities.*
 
